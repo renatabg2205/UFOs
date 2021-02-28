@@ -10,7 +10,7 @@ When the webpage is loaded for the first time, all available data around UFO sig
 <br><br>
 Below is an example of a search for UFO sightings filtered by Country (Canada):
 <br>
-<img src="static/images/UFO_country.PNG" width="1683" height="494" alt="UFO sightings in Canada">
+<img src="static/images/UFO_country.PNG" alt="UFO sightings in Canada">
 <br><br>
 Below is an example of a search for UFO sightings using the date (1/1/2010) and State (fl) filters:
 <br>
